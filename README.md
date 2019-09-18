@@ -6,4 +6,4 @@ Team of developers:
 * Isaev Baiel - Project Manager
 * Omurkulov Azamat - QA
 * Zharkynai Maratova - Technical Writer
-* Nazarov Baiel - Content
+* Nazarov Baiel - Content Maker
