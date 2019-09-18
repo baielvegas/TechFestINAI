@@ -7,3 +7,4 @@ Team of developers:
 * Omurkulov Azamat - QA
 * Zharkynai Maratova - Technical Writer
 * Nazarov Baiel - Content Maker
+* Turan Kutuev - FrontEnd
