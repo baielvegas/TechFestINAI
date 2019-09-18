@@ -4,4 +4,5 @@ This is our university project for our "Software Engineering" lessons and lectio
 
 Team of developers:
 * Isaev Baiel - Project Manager
-* Omurkulov Azamat QA
+* Omurkulov Azamat - QA
+* Zharkynai Maratova - Technical Writer
